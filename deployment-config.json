@@ -1,0 +1,9 @@
+{
+    "type": "ftp",
+    "host": "ftp.ronaroulette.net",
+    "username": "ali@ronaroulette.net",
+    "password": "Europe2020!",
+    "port": 21,
+    "remotePath": "",
+    "uploadOnSave": true
+}
